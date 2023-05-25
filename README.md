@@ -29,19 +29,19 @@ J'ai travaillé principalement sur:
 
 
 **La page d'accueil version desktop:**
-html: "<br>"
+<br>
 <img width="1440" alt="233167371-15e8609d-2067-4dbd-9c25-dc98b42fc1bd" src="https://github.com/ValentinGuedon/Darth-Vador-Resume/assets/122046298/faa9a221-1f8b-4114-aa4d-4964f974ef6a">
-html: "<br>"
+<br>
 **La page d'accueil version mobile:**
-html: "<br>"
+<br>
 <img width="491" alt="233168360-8044a5d8-eca9-402e-a09d-45f409eef703" src="https://github.com/ValentinGuedon/Darth-Vador-Resume/assets/122046298/06fc7ab4-c3e3-4de9-bc6b-614129fe035f">
-html: "<br>"
+<br>
 **La page Expériences:**
-html: "<br>"
+<br>
 ![Exp](https://github.com/ValentinGuedon/Darth-Vador-Resume/assets/122046298/2707a25d-a04b-4be0-8024-a38593ba7be1)
-html: "<br>"
+<br>
 **La page Expériences version mobile:**
-html: "<br>"
+<br>
 ![Exp mobile](https://github.com/ValentinGuedon/Darth-Vador-Resume/assets/122046298/e2234f8b-ed74-4f2b-9025-670a228bb4e4)
 
 # Annexe 
