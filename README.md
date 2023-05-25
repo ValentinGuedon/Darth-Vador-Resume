@@ -1,25 +1,25 @@
 # Le CV de Dark Vador 
 
-[Le CV de Dark Vador](https://stephanekoeniguer.github.io/Dark-Vador-Resume/index.html) est un site vitrine en HTML/CSS et Javascript qui met en avant le parcours du personnage iconique de l'univers Star Wars.
+[Le CV de Dark Vador](https://valentinguedon.github.io/Darth-Vador-Resume/) est un projet 100% front-end réalisé en HTML/CSS & JS. Son objectif est d'aider Dark Vador à retrouver un emploi après avoir échoué à devenir le maître de l'univers. 
 
 # Contexte de développement
 
-Ce site a été crée sur une période de 4 semaines. Le travail a été fait avec d'autres camarades. L'objectif était de créer le CV d'un personnage fictif entièrement responsive.
+Ce projet, réalisé au sein de la Wild Code School après un mois de formation, s'est étendu sur une période de 4 semaines. Il a été réalisé en collaboration avec 3 autres camarades. Chaque développeur avait pour objectif de créer une page du site en utilisant HTML/CSS et en suivant l'approche "mobile first". 
 
-# Contributions
+# Réalisation individuelle
 
 J'ai travaillé principalement sur:
 
-* La création du wireframe sur Figma
-* La gestion du projet
-* La barre de navigation
-* La page d'accueil
-* La page valeurs
-* Le thème visuel
-* Le diaporama de présentation du projet
-* La mise en ligne du site
+* La gestion du projet.
+* La barre de navigation.
+* La page Expériences.
+* Le thème visuel.
+* Le diaporama de présentation du projet.
+* La refactorisation mobile first de tout le CSS.
+* Le burger menu.
+* La selection et création des images par IA.
 
-# Technologies utilisées 
+# Technologies utilisées
 
 * HTML/CSS
 * Javascript
@@ -27,18 +27,21 @@ J'ai travaillé principalement sur:
 
 # Captures d'écran
 
-La page d'accueil version desktop
 
-<img width="1440" alt="Capture d’écran 2023-04-19 à 20 29 14" src="https://user-images.githubusercontent.com/103316525/233167371-15e8609d-2067-4dbd-9c25-dc98b42fc1bd.png">
+**La page d'accueil version desktop:**
 
-La page d'accueil version mobile
+<img width="1440" alt="233167371-15e8609d-2067-4dbd-9c25-dc98b42fc1bd" src="https://github.com/ValentinGuedon/Darth-Vador-Resume/assets/122046298/faa9a221-1f8b-4114-aa4d-4964f974ef6a">
 
-<img width="491" alt="Capture d’écran 2023-04-19 à 20 30 44" src="https://user-images.githubusercontent.com/103316525/233168360-8044a5d8-eca9-402e-a09d-45f409eef703.png">
+**La page d'accueil version mobile:**
 
-La page valeurs
+<img width="491" alt="233168360-8044a5d8-eca9-402e-a09d-45f409eef703" src="https://github.com/ValentinGuedon/Darth-Vador-Resume/assets/122046298/06fc7ab4-c3e3-4de9-bc6b-614129fe035f">
 
-<img width="1423" alt="Capture d’écran 2023-04-19 à 20 35 22" src="https://user-images.githubusercontent.com/103316525/233168612-86c5faaf-d035-4dc1-87b7-393bab367f88.png">
+**La page Expériences:**
 
+![Exp](https://github.com/ValentinGuedon/Darth-Vador-Resume/assets/122046298/2707a25d-a04b-4be0-8024-a38593ba7be1)
+
+**La page Expériences version mobile:**
+![Exp mobile](https://github.com/ValentinGuedon/Darth-Vador-Resume/assets/122046298/e2234f8b-ed74-4f2b-9025-670a228bb4e4)
 
 # Annexe 
 
