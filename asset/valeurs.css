@@ -1,0 +1,58 @@
+:root {
+    --primary-color: black;
+    --secondary--color: #921212;
+}
+
+body {
+    background: linear-gradient(var(--secondary--color), black);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+main {
+    margin-bottom: 20vh;
+}
+
+/* Mise ne forme bannière */
+
+.banniere {
+    background-image: url('images/Darkvador\ desktop.jpeg');
+    margin: 10% 0;
+    background-size: cover;
+    height: 40vh;
+    filter: brightness(0.4);
+    border: 1px solid black;
+}
+
+/* Mise en forme texte*/
+
+p {
+    padding-top: 2%;
+    margin: auto;
+    text-align: justify;
+    overflow-wrap: break-word;
+}
+
+.livre {
+    color: var(--secondary--color);
+    border-bottom: 2px solid var(--secondary--color);
+    text-decoration: none;
+}
+
+/* Media Querry*/
+
+@media screen and (min-width : 900px) {
+
+    /* Modification taille bannière et paragraphe */
+    .banniere {
+
+        height: 50vh;
+    }
+
+    p {
+        margin: 0;
+    }
+
+
+}

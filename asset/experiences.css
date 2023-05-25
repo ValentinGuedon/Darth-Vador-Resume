@@ -1,0 +1,65 @@
+body {
+    background-image: linear-gradient(#921212, rgb(36, 36, 36), black);
+}
+
+h1 {
+    margin-top: 2vh;
+    margin-bottom: 8vh;
+
+}
+
+.contentBlock {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-bottom: 10vh;
+}
+
+p {
+    font-size: larger;
+    text-align: justify;
+}
+
+img {
+    width: 15%;
+    max-width: 15%;
+    height: 10%;
+    display: block;
+    border-radius: 10px;
+}
+
+.imgDesktop {
+    display: none;
+}
+
+.imgMobile {
+    margin: 3vh auto;
+    min-height: 100px;
+    min-width: 100px;
+}
+
+.imgLeft {
+    padding-right: 4vw;
+}
+
+.imgRight {
+    padding-left: 4vw;
+}
+
+@media screen and (min-width: 900px) {
+
+    .imgMobile {
+        display: none;
+    }
+
+    .imgDesktop {
+        display: block;
+    }
+
+    img {
+        display: block;
+        max-width: 10em;
+        max-height: 10em;
+    }
+
+}

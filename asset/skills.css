@@ -1,0 +1,33 @@
+body {
+  background: linear-gradient(#921212, black);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+}
+
+div {
+  padding-top: 10%;
+  width: 80%;
+  margin: auto;
+  margin-bottom: 2%;
+}
+
+hr {
+  color: black;
+}
+
+p {
+  color: white;
+  text-align: justify;
+  font-size: 1.2em;
+}
+
+h1 {
+  display: flex;
+  justify-content: flex-start;
+
+}
+
+.divPart {
+  margin-top: 2vh;
+}
